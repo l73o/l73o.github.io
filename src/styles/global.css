@@ -16,21 +16,22 @@
 		0 16px 32px rgba(var(--gray), 33%);
 }
 @font-face {
-	font-family: 'Atkinson';
-	src: url('/fonts/atkinson-regular.woff') format('woff');
+	font-family: 'NotoSansJP';
+	src: url('/fonts/NotoSansJP-Regular.woff') format('woff');
 	font-weight: 400;
 	font-style: normal;
 	font-display: swap;
 }
 @font-face {
-	font-family: 'Atkinson';
-	src: url('/fonts/atkinson-bold.woff') format('woff');
+	font-family: 'NotoSansJP';
+	src: url('/fonts/NotoSansJP-bold.woff') format('woff');
 	font-weight: 700;
 	font-style: normal;
 	font-display: swap;
 }
+
 body {
-	font-family: 'Atkinson', sans-serif;
+	font-family: 'NotoSansJP', sans-serif;
 	margin: 0;
 	padding: 0;
 	text-align: left;
