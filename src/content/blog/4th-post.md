@@ -1,5 +1,5 @@
 ---
-title: '4th post'
+title: '4番目の投稿'
 description: 'Lorem ipsum dolor sit amet'
 pubDate: '2025 1 6'
 heroImage: '/yuta801-14_TP_V4.png'
