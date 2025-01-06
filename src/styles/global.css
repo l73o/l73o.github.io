@@ -24,7 +24,7 @@
 }
 @font-face {
 	font-family: 'NotoSansJP';
-	src: url('/fonts/NotoSansJP-bold.woff') format('woff');
+	src: url('/fonts/NotoSansJP-Bold.woff') format('woff');
 	font-weight: 700;
 	font-style: normal;
 	font-display: swap;
